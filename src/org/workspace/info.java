@@ -7,6 +7,9 @@ public class info {
 	System.out.println("eshwarsakthi");
 	System.out.println("eshwarsakthi007");
 	System.out.println("eshwarsakthi9");
+	System.out.println("eshwarsakthi");
+	System.out.println("lucky");
+	
 }
 
 
